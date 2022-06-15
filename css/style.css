@@ -1,0 +1,70 @@
+
+		body{
+			margin: 0;
+		}
+
+
+	.engineer {
+    background: #0ec3b2;
+    text-align: center;
+    height: 62vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../images/a11.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+		
+		.pilot {
+	    background: #03221f;
+	    text-align: center;
+	    height: 70vh;
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+		background-image:url(../images/b22.jpg); 
+	 	background-size: cover;
+	    background-position: center;
+	}
+		.footbaler {
+	    background: #35a36b78;
+	    text-align: center;
+	    height: 70vh;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		background-image: url(../images/footbal.jpg);
+		background-size: cover;
+	    background-position: center;
+}
+			
+			.crickter {
+	    background: #685f62;
+	    text-align: center;
+	    height: 70vh;
+	    display: flex;
+	    justify-content: center;
+	    align-items: center;
+		background-image: url(../images/crik.jpg);
+		background-size: cover;
+	    background-position: center;
+ }
+
+
+			h1 {
+	    font-size: 40px;
+	    color: #ffffff;
+	    margin: 0;
+	    font-family: 'Joan', serif;
+	    text-transform: uppercase;
+	    letter-spacing: 2px;
+	}
+		
+		strong {
+    font-family: 'Dancing Script', cursive;
+    font-size: 68px;
+}
+
+	
